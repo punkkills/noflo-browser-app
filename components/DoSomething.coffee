@@ -16,6 +16,7 @@ exports.getComponent = ->
       # What to do when port receives a packet
       return unless event is 'data'
       c.outPorts.out.send payload
+      
 
   # Add output ports
   c.outPorts.add 'out',

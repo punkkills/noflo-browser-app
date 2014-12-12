@@ -81,8 +81,7 @@
             "tgt": {
                 "process": "dom/WriteHtml_fpz6j",
                 "port": "container"
-            },
-            "metadata": {}
+            }
         },
         {
             "src": {
@@ -131,8 +130,7 @@
             "tgt": {
                 "process": "core/Kick_ey1nh",
                 "port": "in"
-            },
-            "metadata": {}
+            }
         },
         {
             "src": {
@@ -142,8 +140,7 @@
             "tgt": {
                 "process": "dom/WriteHtml_fpz6j",
                 "port": "html"
-            },
-            "metadata": {}
+            }
         },
         {
             "data": "#button",
